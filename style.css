@@ -32,7 +32,7 @@ body{
 }
 section{
 	padding:1rem 5%;
-	min-height: 100vh;
+	min-height: 104vh;
 }
 .heading{
 	font-size: 4rem;
@@ -123,7 +123,7 @@ header .follow a:hover {
 	align-items: center;
 	flex-wrap: wrap;
 	gap:1.5rem;
-	margin-top:-240px;
+	margin-top:-186px;
 	
 }
 
@@ -169,7 +169,7 @@ header .follow a:hover {
 	flex:1 1 40rem;
 	left:20px;
 	top:500px; left:500px;
-	height:35rem; width:6rem;
+	height:55rem; width:6rem;
 }
 .home .content .hi{
 	font-size: 2rem;
